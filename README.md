@@ -31,15 +31,41 @@ A comprehensive Course Recovery System designed to help students manage and trac
 
 ### Building the Project
 
+To compile the source code:
+
 ```bash
 mvn clean compile
 ```
 
+To create a distributable JAR package:
+
+```bash
+mvn clean package
+```
+
+This will create `CRS-1.0-SNAPSHOT.jar` in the `target` directory along with all dependencies in `target/lib`.
+
 ### Running the Application
+
+#### Using Maven:
 
 ```bash
 mvn exec:java
 ```
+
+#### Using the JAR file:
+
+```bash
+java -jar target/CRS-1.0-SNAPSHOT.jar
+```
+
+#### Using the convenience script (Unix/Linux/Mac):
+
+```bash
+./run.sh
+```
+
+This script will automatically build the project and run it.
 
 ## Project Structure
 
