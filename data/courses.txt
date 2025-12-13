@@ -1,0 +1,26 @@
+Major,CourseID,CourseName,CreditHour,Intake,Lecturer,Assignment,Exam
+CYBERSECURITY,C301,Ethical Hacking,4,Fall,Dr. Lee,60,40
+CYBERSECURITY,C302,Digital Forensics,4,Spring,Prof. Smith,70,30
+CYBERSECURITY,C303,Network Security,3,Fall,Dr. Kumar,55,45
+CYBERSECURITY,C304,Cryptography,3,Summer,Dr. Brown,65,35
+CYBERSECURITY,C305,Incident Response,4,Spring,Prof. Davis,58,42
+DATA ANALYTICS,C306,Data Mining,4,Fall,Dr. Miller,50,50
+DATA ANALYTICS,C307,Statistical Modeling,4,Spring,Prof. Chen,62,38
+DATA ANALYTICS,C308,Big Data Systems,3,Fall,Dr. Johnson,70,30
+DATA ANALYTICS,C309,Machine Learning for DA,3,Summer,Dr. Kumar,55,45
+DATA ANALYTICS,C310,Data Visualization,4,Spring,Dr. Lee,45,55
+ARTIFICIAL INTELIGENCE,AI201,Introduction to AI,3,Fall,Dr. Alan,50,50
+ARTIFICIAL INTELIGENCE,AI202,Neural Networks,4,Spring,Prof. Hinton,60,40
+ARTIFICIAL INTELIGENCE,AI203,Robotics Process Automation,4,Fall,Dr. Asimov,70,30
+ARTIFICIAL INTELIGENCE,AI204,Computer Vision,3,Summer,Dr. Fei,55,45
+ARTIFICIAL INTELIGENCE,AI205,Natural Language Processing,4,Spring,Prof. Chomsky,60,40
+BUSINESS MANAGEMENT,BM401,Business Strategy,3,Fall,Dr. Porter,50,50
+BUSINESS MANAGEMENT,BM402,Marketing Principles,3,Spring,Prof. Kotler,60,40
+BUSINESS MANAGEMENT,BM403,Accounting 101,4,Fall,Dr. Luca,70,30
+BUSINESS MANAGEMENT,BM404,HR Management,3,Summer,Dr. Ulrich,50,50
+BUSINESS MANAGEMENT,BM405,Microeconomics,4,Spring,Prof. Keynes,60,40
+INTERNATIONAL RELATION,IR501,Global Politics,3,Fall,Dr. Morgenthau,50,50
+INTERNATIONAL RELATION,IR502,Diplomatic History,4,Spring,Prof. Kissinger,60,40
+INTERNATIONAL RELATION,IR503,International Law,4,Fall,Dr. Grotius,70,30
+INTERNATIONAL RELATION,IR504,Political Economy,3,Summer,Dr. Marx,50,50
+INTERNATIONAL RELATION,IR505,Conflict Resolution,3,Spring,Prof. Galtung,60,40

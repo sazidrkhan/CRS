@@ -1,0 +1,146 @@
+PLAN:RP001
+STUDENT:TP002
+COURSE:C302
+STATUS:COMPLETED
+
+ITEMS:
+ ITEM|I1|COMPONENT|Digital Forensics Assignment Recovery|2025-02-10|true|2|Assignment
+ ITEM|I2|COMPONENT|Digital Forensics Final Exam Recovery|2025-02-20|true|2|Final Exam
+ ITEM|I3|CONSULTATION|Consult with DF Lecturer|2025-02-05|true|Prof. Smith|Lab 2-01
+
+MILESTONES:
+ MS|M1|Week 1|Revise core DF concepts
+ MS|M2|Week 2|Attempt past exam questions
+ MS|M3|Week 3|Mock test and feedback
+
+PROGRESS:
+ PE|P1|2025-02-03|30|Finished revising weeks 1 to 3
+ PE|P2|2025-02-12|70|Completed practice lab tasks
+ PE|P3|2025-02-22|100|Ready for recovery assessment
+
+GRADES:
+ GR|G1|Digital Forensics Recovery Exam|68.0|B|2025-02-25
+
+---
+PLAN:RP002
+STUDENT:TP002
+COURSE:C304
+STATUS:IN_PROGRESS
+
+ITEMS:
+ ITEM|I1|COMPONENT|Cryptography Assignment Recovery|2025-03-05|false|2|Assignment
+ ITEM|I2|COMPONENT|Cryptography Final Exam Recovery|2025-03-20|false|2|Final Exam
+ ITEM|I3|CONSULTATION|Meet Cryptography Lecturer|2025-03-01|false|Dr. Brown|Office C-304
+
+MILESTONES:
+ MS|M1|Week 1|Revise symmetric encryption
+ MS|M2|Week 2|Practice RSA questions
+ MS|M3|Week 3|Attempt mock exam
+
+PROGRESS:
+ PE|P1|2025-02-28|20|Reviewed lecture notes
+ PE|P2|2025-03-08|45|Completed practice questions
+
+GRADES:
+
+---
+PLAN:RP007
+STUDENT:TP009
+COURSE:C303
+STATUS:COMPLETED
+
+ITEMS:
+ ITEM|I1|COMPONENT|Network Security Assignment Recovery|2025-03-01|true|2|Assignment
+ ITEM|I2|COMPONENT|Network Security Final Exam Recovery|2025-03-10|true|2|Final Exam
+
+MILESTONES:
+ MS|M1|Week 1|Study secure communication fundamentals
+ MS|M2|Week 2|Firewall & VPN practical tasks
+
+PROGRESS:
+ PE|P1|2025-02-25|50|Reviewed lecture materials
+ PE|P2|2025-03-05|90|Completed revision and mock tests
+
+GRADES:
+ GR|G1|Network Security Recovery Exam|65.0|B|2025-03-11
+
+---
+PLAN:RP011
+STUDENT:TP006
+COURSE:C304
+STATUS:PLANNED
+
+ITEMS:
+
+MILESTONES:
+
+PROGRESS:
+
+GRADES:
+
+---
+PLAN:RP013
+STUDENT:TP002
+COURSE:C301
+STATUS:PLANNED
+
+ITEMS:
+
+MILESTONES:
+
+PROGRESS:
+
+GRADES:
+
+---
+PLAN:RP003
+STUDENT:TP005
+COURSE:C304
+STATUS:PLANNED
+
+ITEMS:
+
+MILESTONES:
+
+PROGRESS:
+
+GRADES:
+
+---
+PLAN:RP005
+STUDENT:TP021
+COURSE:C301
+STATUS:COMPLETED
+
+ITEMS:
+ ITEM|I1|COMPONENT|Final Exam Recovery|2025-06-06|false|2|Final Exam
+
+MILESTONES:
+ MS|M1|Week 1|Power
+
+PROGRESS:
+ PE|P1|2025-06-06|20|
+
+GRADES:
+ GR|G1|Math|2.0|F|2025-05-05
+
+---
+PLAN:RP015
+STUDENT:TP021
+COURSE:C301
+STATUS:COMPLETED
+
+ITEMS:
+ ITEM|I2|COMPONENT|noth|2026-02-26|false|3|Final Exam
+ ITEM|I3|COMPONENT|noth|2026-02-26|false|3|Assignment
+
+MILESTONES:
+ MS|M1|Week 1|Power
+
+PROGRESS:
+ PE|P1|2025-06-06|20|
+
+GRADES:
+ GR|G1|Math|84.0|F|2025-05-05
+
+---

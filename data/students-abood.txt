@@ -1,0 +1,5 @@
+StudentID,FirstName,LastName,Major,Courses,Year,Email
+TP017,pat,cummins,INTERNATIONAL RELATION,Global Politics;Diplomatic History;International Law;Political Economy;Conflict Resolution,SECOND YEAR,patty@gmail.com
+TP018,joe,root,ARTIFICIAL INTELIGENCE,Introduction to AI;Neural Networks;Robotics Process Automation;Computer Vision;Natural Language Processing,THIRD YEAR,root@gmail.com
+TP021,nothign,asldkjf,CYBERSECURITY,Ethical Hacking;Digital Forensics;Network Security;Cryptography;Incident Response,FIRST YEAR,ls@mail.com
+TP023,Nahiyan,Alam,CYBERSECURITY,Ethical Hacking;Digital Forensics;Network Security;Cryptography;Incident Response,FIRST YEAR,nahiyan@gmail.com
