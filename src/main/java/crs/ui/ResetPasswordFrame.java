@@ -16,7 +16,7 @@ import crs.notification.NotificationManager;
 
 /**
  *
- * @author HP
+ * @author Sazid R Khan
  */
 public class ResetPasswordFrame extends javax.swing.JFrame {
     

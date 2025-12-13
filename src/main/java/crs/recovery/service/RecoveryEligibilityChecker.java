@@ -6,7 +6,7 @@ package crs.recovery.service;
 
 /**
  *
- * @author yal
+ * @author Sazid R Khan
  * Recovery-specific eligibility abstraction.
  * "Is this student allowed to create a recovery plan for this course?".
  * Different from the Part 3 enrolment eligibility.

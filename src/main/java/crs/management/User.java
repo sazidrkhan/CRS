@@ -10,7 +10,7 @@ import java.util.Date;
 
 /**
  *
- * @author HP
+ * @author Sazid R Khan
  */
 public class User {
     // Attributes (private for Encapsulation)

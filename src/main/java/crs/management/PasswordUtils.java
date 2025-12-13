@@ -9,7 +9,7 @@ import java.security.NoSuchAlgorithmException;
 
 /**
  *
- * @author HP
+ * @author Sazid R Khan
  */
 public class PasswordUtils {
     /**

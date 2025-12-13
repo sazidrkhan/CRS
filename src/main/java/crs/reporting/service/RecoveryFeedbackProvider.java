@@ -6,7 +6,7 @@ package crs.reporting.service;
 import java.util.List;
 /**
  *
- * @author Acer
+ * @author Sazid R Khan
  */
 public interface RecoveryFeedbackProvider {
     List<String> getFeedbackForStudent(String studentId);

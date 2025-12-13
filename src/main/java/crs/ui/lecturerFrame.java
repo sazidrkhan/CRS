@@ -6,7 +6,7 @@ package crs.ui;
 
 /**
  *
- * @author HP
+ * @author Sazid R Khan
  */
 public class lecturerFrame extends javax.swing.JFrame {
     

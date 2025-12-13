@@ -15,7 +15,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author HP
+ * @author Sazid R Khan
  */
 public class LOGIN_FRAME extends javax.swing.JFrame {
     

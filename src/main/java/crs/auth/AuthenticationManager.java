@@ -13,7 +13,7 @@ import crs.management.User;
 
 /**
  *
- * @author HP
+ * @author Sazid R Khan
  */
 public class AuthenticationManager {
     private final File file;

@@ -6,7 +6,7 @@ package crs.recovery.model;
 
 /**
  *
- * @author yal
+ * @author Sazid R Khan
  */
 public enum RecoveryStatus {
     

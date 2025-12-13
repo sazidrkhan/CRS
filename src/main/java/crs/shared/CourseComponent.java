@@ -6,7 +6,7 @@ package crs.shared;
 
 /**
  *
- * @author yal
+ * @author Sazid R Khan
  */
 public class CourseComponent {
 

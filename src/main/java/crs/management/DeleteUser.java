@@ -13,7 +13,7 @@ import java.io.IOException;
 
 /**
  *
- * @author HP
+ * @author Sazid R Khan
  */
 public class DeleteUser {
     

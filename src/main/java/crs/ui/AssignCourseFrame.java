@@ -13,7 +13,7 @@ import crs.ui.AssignSearchUser;
 
 /**
  *
- * @author HP
+ * @author Sazid R Khan
  */
 public class AssignCourseFrame extends javax.swing.JFrame {
     
