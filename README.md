@@ -255,7 +255,12 @@ Copyright (c) 2025 Sazid R Khan
 
 ## 🙏 Acknowledgments
 
-- Developed as a university group project
+- Developed as a university group project.
+    - Group Members:
+        - Mahrus Shamsul Ahsan
+        - Mariyam Iyala Ali
+        - Mariyam Eemau Riza
+        - Abdallah Mohamed Mahmoud Mohamed Mahmoud 
 - Built using Java Swing for desktop GUI
 - PDF generation powered by iTextPDF
 - Email notifications using Jakarta Mail
