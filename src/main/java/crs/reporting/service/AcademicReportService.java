@@ -6,7 +6,7 @@ package crs.reporting.service;
 
 /**
  *
- * @author Acer
+ * @author Sazid R Khan
  */
 
 import crs.reporting.model.AcademicReport;

@@ -14,7 +14,7 @@ import javax.swing.JFrame;
 
 /**
  *
- * @author HP
+ * @author Sazid R Khan
  */
 public class AcademicOfficerDashboard extends javax.swing.JFrame {
     

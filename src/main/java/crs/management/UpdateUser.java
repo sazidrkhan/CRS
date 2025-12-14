@@ -17,7 +17,7 @@ import java.util.List;
 
 /**
  *
- * @author HP
+ * @author Sazid R Khan
  */
 public class UpdateUser {
 

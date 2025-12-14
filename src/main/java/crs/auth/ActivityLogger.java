@@ -6,7 +6,7 @@ package crs.auth;
 
 /**
  *
- * @author HP
+ * @author Sazid R Khan
  */
 import java.io.DataOutputStream;
 import java.io.File;

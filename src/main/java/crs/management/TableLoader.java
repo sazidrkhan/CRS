@@ -11,7 +11,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author HP
+ * @author Sazid R Khan
  */
 public class TableLoader {
     

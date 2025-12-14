@@ -12,7 +12,7 @@ import crs.management.TableLoader;
 
 /**
  *
- * @author HP
+ * @author Sazid R Khan
  */
 public class AssignSearchUser extends javax.swing.JFrame {
     

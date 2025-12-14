@@ -27,7 +27,7 @@ import crs.notification.NotificationManager;
 
 /**
  *
- * @author HP
+ * @author Sazid R Khan
  */
 public class AdminFrame extends javax.swing.JFrame {
 

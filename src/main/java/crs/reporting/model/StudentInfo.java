@@ -6,7 +6,7 @@ package crs.reporting.model;
 
 /**
  *
- * @author Acer
+ * @author Sazid R Khan
  */
 
 public class StudentInfo {

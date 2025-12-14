@@ -12,7 +12,7 @@ import crs.reporting.service.*;
 import crs.reporting.service.impl.*;
 /**
  *
- * @author Acer
+ * @author Sazid R Khan
  */
 public class FrmAcademicReport extends javax.swing.JPanel {
     private AcademicReportPanel reportPanel;

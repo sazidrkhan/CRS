@@ -8,7 +8,7 @@ import java.util.List;
 
 /**
  *
- * @author yal
+ * @author Sazid R Khan
  * 
  * Represents the course retrieval policy:
  * - Max 3 attempts

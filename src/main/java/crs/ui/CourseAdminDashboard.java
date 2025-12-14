@@ -12,7 +12,7 @@ import crs.notification.EmailGUI;
 import javax.swing.JFrame;
 /**
  *
- * @author HP
+ * @author Sazid R Khan
  */
 public class CourseAdminDashboard extends javax.swing.JFrame {
     

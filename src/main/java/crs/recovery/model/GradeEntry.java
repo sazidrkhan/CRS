@@ -8,7 +8,7 @@ import java.time.LocalDate;
 
 /**
  *
- * @author yal
+ * @author Sazid R Khan
  */
 public class GradeEntry {
         private String gradeId;
