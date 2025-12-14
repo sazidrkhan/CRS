@@ -7,7 +7,7 @@ package crs.recovery.model;
 import java.time.LocalDate;
 /**
  *
- * @author yal
+ * @author Sazid R Khan
  * Recovery item for consultation-style tasks (meet lecturer, etc.).
  */
 

@@ -15,7 +15,7 @@ import java.util.List;
 
 /**
  *
- * @author HP
+ * @author Sazid R Khan
  */
 public class PasswordResetter {
     private final File file;

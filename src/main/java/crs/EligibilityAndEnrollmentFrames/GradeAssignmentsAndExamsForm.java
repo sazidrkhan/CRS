@@ -16,7 +16,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author abdullah
+ * @author Sazid R Khan
  */
 public class GradeAssignmentsAndExamsForm extends javax.swing.JFrame {
     

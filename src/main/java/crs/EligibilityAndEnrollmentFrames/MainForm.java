@@ -9,7 +9,7 @@ import crs.EligibilityAndEnrollment.EligibilityChecker;
 
 /**
  *
- * @author abdullah
+ * @author Sazid R Khan
  */
 public class MainForm extends javax.swing.JFrame {
     

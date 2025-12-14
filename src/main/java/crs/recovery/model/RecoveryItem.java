@@ -8,7 +8,7 @@ import java.time.LocalDate;
 
 /**
  *
- * @author yal
+ * @author Sazid R Khan
  * 
  * Abstract base for different kinds of recovery tasks.
  * Demonstrates abstraction + inheritance + polymorphism.

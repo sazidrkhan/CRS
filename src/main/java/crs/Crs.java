@@ -3,16 +3,30 @@
  */
 
 package crs;
+
 import javax.swing.*;
 import java.awt.*;
 
 import crs.EligibilityAndEnrollmentFrames.MainForm;
-import crs.recovery.gui.FrmCourseRecoveryPlan;              // recovery GUI
-import crs.reporting.ui.FrmAcademicReport; // reporting GUI (your .form JFrame)
+import crs.recovery.gui.FrmCourseRecoveryPlan;
+import crs.reporting.ui.FrmAcademicReport;
 import crs.reporting.ui.AcademicReportPanel;
 
+/**
+ * Main launcher application for the Course Recovery System.
+ * <p>
+ * This class provides a GUI launcher that allows users to access different
+ * modules of the system including Eligibility & Enrollment, Course Recovery
+ * Plan, and Academic Reporting.
+ * </p>
+ *
+ * @author Sazid R Khan
+ */
 public class Crs extends JFrame {
 
+    /**
+     * Constructs the main launcher window.
+     */
     public Crs() {
         setTitle("CRS Launcher");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
@@ -84,6 +98,11 @@ public class Crs extends JFrame {
         setContentPane(root);
     }
 
+    /**
+     * Main entry point for the Course Recovery System application.
+     *
+     * @param args command line arguments (not used)
+     */
     public static void main(String[] args) {
         SwingUtilities.invokeLater(() -> new Crs().setVisible(true));
     }

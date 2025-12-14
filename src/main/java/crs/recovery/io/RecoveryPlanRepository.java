@@ -10,7 +10,7 @@ import java.util.List;
 
 /**
  *
- * @author yal
+ * @author Sazid R Khan
  */
 public interface RecoveryPlanRepository {
     
